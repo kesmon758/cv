@@ -1,0 +1,37 @@
+
+/******* Tag Selectors *********/
+body{
+    background-color: rgb(223, 229, 230);
+}
+
+hr{
+    width: 5%;
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+}
+
+h1{ color: #66bfbf;}
+
+h3{color: #66bfbf;}
+
+
+/*********class selectors (you can have more than 1 classes on a tag**********/
+
+.bender{
+    background-color: crimson;
+}
+
+.rant {
+    border-radius: 100%;
+}
+
+.bart{
+    font-style: italic;
+}
+
+/******* ID Selectors can only have one id on a tag; and that one specific id per page ************/
+
+#avatar{
+    font-style: italic;
+}
